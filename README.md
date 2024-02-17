@@ -8,3 +8,9 @@ PyAutoGUI
 ```
 pip install pyautogui
 ```
+
+For `clickTimer.py`:
+pynput
+```
+pip install pynput
+```
