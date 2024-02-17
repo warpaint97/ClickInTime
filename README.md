@@ -4,6 +4,8 @@ This is a Python script `ClickInTime.py` as well as an executable file `ClickInT
 Additionally there is a Python script `clickTimer.py` that allow you to measure the click duration and the exact time of a click. This script is purely for testing purposes.
 
 ### Dependecies
+For `ClickInTime.py`:
+
 PyAutoGUI
 ```
 pip install pyautogui
